@@ -1,0 +1,13 @@
+ultralytics>=8.3.0
+opencv-python
+numpy
+pandas
+torch
+torchvision
+streamlit
+xgboost
+scikit-learn
+matplotlib
+seaborn
+Pillow
+tqdm

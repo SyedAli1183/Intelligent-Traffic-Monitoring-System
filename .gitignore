@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights & large files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+
+# Data
+data/raw_videos/
+data/processed/
+*.mp4
+*.avi
+*.mov
+
+# Results
+results/
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
